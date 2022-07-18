@@ -1,1 +1,2 @@
-# hello-demo-repo#  hello 
+# hello-demo-repo
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/onyiafranklin/hello-demo-repo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/onyiafranklin/hello-demo-repo/tree/main)
